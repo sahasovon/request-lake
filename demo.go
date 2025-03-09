@@ -1,5 +1,5 @@
-// Package plugindemo a demo plugin.
-package plugindemo
+// Package requestlake a demo plugin.
+package requestlake
 
 import (
 	"bytes"

@@ -1,10 +1,10 @@
-displayName: Demo Plugin
+displayName: Request Lake Plugin
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/traefik/plugindemo
+import: github.com/sahasovon/request-lake
 
-summary: '[Demo] Add Request Header'
+summary: 'Track and store all requests'
 
 testData:
   Headers:
